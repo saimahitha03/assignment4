@@ -1,0 +1,101 @@
+.font{
+    font-style:oblique;
+    color:crimson;
+    font-weight: 100;
+    text-decoration:underline black
+}
+.text{
+    text-align: center;
+}
+.none{
+width:150px
+height: 170px;
+border:5px ;
+background-color:none;
+border-radius: 10px;
+font-size :20px;
+margin:10px
+
+}
+.dotted{
+    width:150px
+    height: 170px;
+    border:5px dotted black;
+    background-color:aqua;
+    border-radius: 2px ;
+    font-size: 20px;
+    margin:10px
+    
+}
+.dashed{
+    width:150px
+    height: 170px;
+    border:5px dashed blue;
+    background-color:yellow;
+    border-radius: 2px ;
+    font-size: 20px;
+    margin:10px
+    
+}
+.solid{
+width:150px
+height: 170px;
+border:5px solid red;
+background-color:lime;
+border-radius: 10px;
+font-size :20px;
+margin:10px 
+}
+.double{
+ width:150px
+height: 170px;
+border:5px dotted orange;
+background-color:teal;
+border-radius: 10px;
+font-size :20px;
+margin:10px
+
+}
+.groove{
+    width:150px
+    height: 170px;
+    border:5px groove hotpink ;
+    background-color:cyan;
+    border-radius: 10px;
+    font-size :20px;
+    margin:10px
+       
+}
+.ridge{
+    width:150px
+    height: 170px;
+    border:5px ridge purple;
+    background-color:grey;
+    border-radius: 10px;
+    font-size :20px;
+    margin:10px
+    
+    
+}
+.inset
+{
+    width:150px
+    height: 170px;
+    border:5px inset black;
+    background-color:skyblue;
+    border-radius: 10px;
+    font-size :20px;
+    margin:10px
+    
+    
+}
+.outset{
+    width:150px
+    height: 170px;
+    border:5px outset green;
+    background-color:coral;
+    border-radius: 10px;
+    font-size :20px;
+    margin:10px
+        
+}
